@@ -12,5 +12,6 @@ Scratch
 some sensilbe workflow, but clunky/not suitible 
 ![image](https://hackmd.io/_uploads/Sk0GZIKYJl.png)
 - tried a few more, starting to feel like we need a custom bot
-- need to confirm workflow
+- found some repos on Github, nothing jumped out
+- **need to confirm workflow**
 
