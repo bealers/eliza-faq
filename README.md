@@ -11,4 +11,4 @@ Resources
 - [Temporary repo](https://github.com/bealers/eliza-faq)
 - [Creating LLM friendly docs](https://docs.kapa.ai/blog/optimizing-technical-documentation-for-llms)
 
-[![hackmd-github-sync-badge](https://hackmd.io/5Na4Oa9XSK-KLQ3bwFU6YA/badge)](https://hackmd.io/5Na4Oa9XSK-KLQ3bwFU6YA)
+[![hackmd-github-sync-badge](https://hackmd.io/5Na4Oa9XSK-KLQ3bwFU6YA/badge)](https://hackmd.io/@bealers/BJNcWxFYJl)
