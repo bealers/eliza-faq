@@ -1,6 +1,7 @@
-[![hackmd-github-sync-badge](https://hackmd.io/-GOUqb5EQAqYWvltIDbT9A/badge)](https://hackmd.io/-GOUqb5EQAqYWvltIDbT9A)
 Intro
 ---
+
+[![hackmd-github-sync-badge](https://hackmd.io/-GOUqb5EQAqYWvltIDbT9A/badge)](https://hackmd.io/-GOUqb5EQAqYWvltIDbT9A)
 
 Make a FAQ system for [ElizaOS](https://elizaos.github.io/eliza/) loaded with FAQ data from its own Discord.
 
