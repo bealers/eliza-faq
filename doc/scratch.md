@@ -1,8 +1,17 @@
 Scratch
 ---
+
+
+
 **12 Feb**
 
-- 
+- [x] produce quick win popular dev FAQ in format suitible for docs site
+- [ ] investigate default Eliza RAG options
+
+-Considering a database, outputting as text for docs still np, but if we want to add 'solved by' and tipping etc, then a db might be useful. a little crud ui backend would be nice if so
+
+-Claude did a good job of grouping the most popular questions but 
+noticing that a lot of the sumamrised answers from Jin's script are pretty lame. Before we manually intervene we're going to need a second pass of the quetions to see if armed with the codebase's context, we can get claude to provide relevant code examples to support the answers.
 
 **11 Feb**
 
