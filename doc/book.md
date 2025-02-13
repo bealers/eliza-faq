@@ -9,6 +9,7 @@ Output
 ===
 - [Dev Popular](/aT9ZRaCKR8maZGJxfKNCJw)
 - [Dev Enumerated](/5IAKi8kBRbmbwuTCJ1_fSA)
+- [Remote Deployment](/Mgwj6n1kSMyPxnaLpcbKzw)
 
 Resources
 ===
