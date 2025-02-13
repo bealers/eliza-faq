@@ -31,7 +31,6 @@ POST_INTERVAL_MIN=900  # 15 minutes
 POST_INTERVAL_MAX=1200 # 20 minutes
 TWITTER_POLL_INTERVAL=120
 ```
-Version 0.1.6-alpha.4 provides more stable posting behavior.
 
 ---
 
@@ -67,7 +66,7 @@ pnpm clean
 pnpm install --no-frozen-lockfile
 pnpm build
 ```
-For Windows users, WSL2 is recommended.
+For Windows users, WSL2 is essential.
 
 ---
 
