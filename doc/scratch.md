@@ -1,6 +1,10 @@
 Scratch
 ---
 
+**14 Feb**
+- Created [new install guide](https://hackmd.io/@bealers/BJNcWxFYJl/%2FMgwj6n1kSMyPxnaLpcbKzw) from scratch, no ai.
+- That's already been pulled
+- [Created summary](https://hackmd.io/@bealers/BJNcWxFYJl/%2F505xZ6UpSw2qOKw4f-5O0g) of Nader Dabit's recent ElisaOS plugin from scratch YT video
 
 
 **12 Feb**
