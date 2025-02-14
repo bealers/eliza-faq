@@ -10,6 +10,7 @@ Output
 - [Dev Popular](/aT9ZRaCKR8maZGJxfKNCJw)
 - [Dev Enumerated](/5IAKi8kBRbmbwuTCJ1_fSA)
 - [Remote Deployment](/Mgwj6n1kSMyPxnaLpcbKzw)
+- [Video Summary - Custom Eliza Plugin From Scratch](/505xZ6UpSw2qOKw4f-5O0g)
 
 Resources
 ===
