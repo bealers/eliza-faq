@@ -1,5 +1,8 @@
 # Deploying ElizaOS to Production
 
+- change to PM2 from systemd
+
+
 A guide to deploying and maintaining an [ElizaOS](https://github.com/elizaOS/eliza) agent in a production environment.
 
 ## Assumptions
@@ -46,6 +49,8 @@ Enable the firewall.
 ```bash
 sudo ufw --force enable
 ```
+
+Note: For a Discord bot, no additional ports need to be opened. The bot makes outbound connections to Discord's servers which are allowed by default.
 
 ### Locale
 
