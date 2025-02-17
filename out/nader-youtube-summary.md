@@ -4,7 +4,7 @@ A summary of Nader Dabit's tutorial on [building a NASA API plugin for ElizaOS](
 
 The code for this tutorial is available at [eliza-nasa-plugin](https://github.com/dabit3/eliza-nasa-plugin).
 
-Raw notes:
+My notes:
 - Using ElizaOS, and Hyperbolic for AI inference.
 - starts the project from scratch, good for TS newbs
 - explains the index.ts layout, evaulators and callbacks
@@ -16,6 +16,7 @@ Raw notes:
 - shows customising the agent index.ts
 
 ## Overview
+*Claude's summary of the transcript*
 
 The tutorial demonstrates how to build a custom plugin for ElizaOS that integrates with NASA's API. The plugin enables an AI agent to fetch and share:
 - Mars Rover photos
