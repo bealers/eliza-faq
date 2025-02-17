@@ -1,14 +1,18 @@
-# Deploying ElizaOS to Production
+# Self-hosting ElizaOS
 
-- change to PM2 from systemd
+A work in progress guide to self-hosting and maintaining an [ElizaOS](https://github.com/elizaOS/eliza) agent on the public Internet.
 
-
-A guide to deploying and maintaining an [ElizaOS](https://github.com/elizaOS/eliza) agent in a production environment.
+Missing/Todo:
+- SSL for any exposed services
+- Switch from `systemd` to `pm2` (see [Hyperfy self-hosting guide](https://hyperfy.how/hosting/self))
+- Expand daemon monitoring & troubleshooting
+- Backups & recovery
+- Cover other distros (e.g. Arch)
 
 ## Assumptions
 
 - Freshly installed Ubuntu 22.04 LTS
-- RAM >= 4GB
+- RAM >= 8GB
 - Disk space >= 20GB
 - You have a user, not root, with sudo access that can ssh into the server
 
@@ -20,7 +24,7 @@ A slightly opinionated list of tools that we need to install.
 sudo apt update
 sudo apt -y upgrade
 sudo apt -y install \
-    neovim \
+    neovim \ # change to suit
     curl \
     git \
     unzip \
@@ -49,8 +53,6 @@ Enable the firewall.
 ```bash
 sudo ufw --force enable
 ```
-
-Note: For a Discord bot, no additional ports need to be opened. The bot makes outbound connections to Discord's servers which are allowed by default.
 
 ### Locale
 
