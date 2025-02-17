@@ -1,4 +1,4 @@
-# Consolidated FAQ (Ordered by Frequency)
+# ElizaOS Developer's most popular FAQ
 
 ### Twitter Authentication & Integration
 **Most Common Questions:**
